@@ -121,7 +121,7 @@
 			"description": "The `/me` endpoints let you manage information about the authenticated user."
 		},
 		{
-			"name": "Collections",
+			"name": "GIT-TESTE",
 			"item": [
 				{
 					"name": "Create a collection",
